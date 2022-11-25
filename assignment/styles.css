@@ -1,0 +1,19 @@
+body {
+    display: block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0.5em;
+}
+
+img {
+    height: 60px;
+    width: 100px;
+}
+
+h1 {
+    position: relative;
+    margin: 1em 0;
+}
+
+h2 {
+    margin-top: 0.5em;
+}
